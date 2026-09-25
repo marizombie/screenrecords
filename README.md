@@ -1,8 +1,23 @@
 # Screen Records Releases
 
-Public release repository for Screen Records, a native macOS screen recorder and editor.
+Public release repository for [Screen Records](https://screenrecords.app), a native macOS screen recorder and editor.
 
-This repository exists to host signed and notarized release artifacts that need to be publicly downloadable by customers, the website, and future update checks.
+3 free recordings, then 1 payment for lifetime updates. 
+
+Screen Records helps you to record product demos, lessons or tutorials and edit them with help of MCP (using your own subscriptions) with minimum tokens. 
+
+Add captions, trim pauses, change camera shape and background, add text or image on top of recording. 
+
+While recording, you can also use teleprompter. 
+Set a specific time if your video needs to fit 30 minutes (or your number). 
+
+No more losing your recording controls after changing macOS space. 
+
+License stays with you even when you change machine, just use [restore](https://screenrecords.app/restore/) process. 
+
+---
+
+_This repository exists to host signed and notarized release artifacts that need to be publicly downloadable by customers, the website, and future update checks._
 
 ## Download
 
