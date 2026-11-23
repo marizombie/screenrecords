@@ -2,16 +2,20 @@
 
 Public release repository for [Screen Records](https://screenrecords.app), a native macOS screen recorder and editor.
 
-3 free recordings, then 1 payment for lifetime updates. 
+Unlimited free recordings with full editing flow, small badge on export.
 
-Screen Records helps you to record product demos, lessons or tutorials and edit them with help of MCP (using your own subscriptions) with minimum tokens. 
+Or paid version without badge and with MCP allowing Claude, ChatGPT and Cursor make recordings, edit and export them.
 
-Add captions, trim pauses, change camera shape and background, add text or image on top of recording. 
+Screen Records helps you to record product demos, lessons for online courses or tutorials for YouTube, and edit them with help of MCP (using your own subscriptions) with minimum tokens. 
 
-While recording, you can also use teleprompter. 
+Add captions, trim pauses, change camera shape and background, add text, video, image or captions on top of recording. 
+Or narrate over the part of video you are not happy about, without redoing it.
+
+While recording, you can also use teleprompter, and pause the process if you need a break. 
 Set a specific time if your video needs to fit 30 minutes (or your number). 
 
-No more losing your recording controls after changing macOS space. 
+No more losing your recording controls after switching between macOS spaces. See if your mic is on constantly. 
+Works with external microfone too.
 
 License stays with you even when you change machine, just use [restore](https://screenrecords.app/restore/) process. 
 
